@@ -1,0 +1,30 @@
+{
+  "name": "styledcomponents",
+  "version": "1.0.0",
+  "description": "Styled components example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evergreen-callum-fallows/styledcomponents.git"
+  },
+  "keywords": [
+    "styled",
+    "components"
+  ],
+  "author": "Callum Fallows",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evergreen-callum-fallows/styledcomponents/issues"
+  },
+  "homepage": "https://github.com/evergreen-callum-fallows/styledcomponents#readme",
+  "dependencies": {
+    "create-react-app": "^4.0.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/styled-components": "^5.1.5"
+  }
+}
